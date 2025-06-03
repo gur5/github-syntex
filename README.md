@@ -6,6 +6,7 @@
 ## A second-level heading
 ### A third-level heading
 ```
+---
 ### Styling text
 **You can indicate emphasis with bold, italic, strikethrough, subscript, or superscript text in comment fields and .md files.**
 ```
@@ -30,4 +31,31 @@ Underline	              <ins> </ins>                  	None                     
 ```
 ![Screenshot (31)](https://github.com/user-attachments/assets/ec5368b3-6a19-423f-a9f6-a95724d63631)
 
+---
+
+### Quoting text
+```
+Text that is not a quote
+
+> Text that is a quote
+```
+---
+
+### Quoting code
+```
+Use `git status` to list all new or modified files that haven't yet been committed.
+```
+#### Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+---
+### Links
+```
+This site was built using [GitHub Pages](https://pages.github.com/).
+```
+---
+### Section links
 
