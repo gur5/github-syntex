@@ -9,22 +9,23 @@
 ### Styling text
 **You can indicate emphasis with bold, italic, strikethrough, subscript, or superscript text in comment fields and .md files.**
 ```
-Style	                          Syntax	              Keyboard shortcut	                                        Example	                      Output
-Bold	                    ** ** or __ __	      Command+B (Mac) or Ctrl+B (Windows/Linux)	                **This is bold text**	          This is bold text
+Style	                          Syntax	              Keyboard shortcut	                                        Example	                          Output
 
-Italic                  	* * or _ _           	Command+I (Mac) or Ctrl+I (Windows/Linux)	              _This text is italicized_	      This text is italicized
+Bold	                    ** ** or __ __	      Command+B (Mac) or Ctrl+B (Windows/Linux)	                **This is bold text**	            This is bold text
 
-Strikethrough	            ~~ ~~ or ~ ~	          None  	                                              ~~This was mistaken text~~	This was mistaken text
+Italic                  	* * or _ _           	Command+I (Mac) or Ctrl+I (Windows/Linux)	              _This text is italicized_	          This text is italicized
 
-Bold and nested italic	  ** ** and _ _	          None	**This text is _extremely_ important**	This text is extremely important
+Strikethrough	            ~~ ~~ or ~ ~	                None  	                                         ~~This was mistaken text~~	        This was mistaken text
 
-All bold and italic	      *** ***	                None	***All this text is important***	All this text is important
+Bold and nested italic	  ** ** and _ _	                None                                	**This text is _extremely_ important**	      This text is extremely important
 
-Subscript	                <sub> </sub>	          None	This is a <sub>subscript</sub> text	This is a subscript text
+All bold and italic	      *** ***	                      None	                                  ***All this text is important***	          All this text is important
 
-Superscript	             <sup> </sup>            	None	This is a <sup>superscript</sup> text	This is a superscript text
+Subscript	                <sub> </sub>	                None                                   	This is a <sub>subscript</sub> text	        This is a subscript text
 
-Underline	              <ins> </ins>            	None	This is an <ins>underlined</ins> text	This is an underlined text
+Superscript	             <sup> </sup>                  	None	                                  This is a <sup>superscript</sup> text	      This is a superscript text
+
+Underline	              <ins> </ins>                  	None                                     This is an <ins>underlined</ins> text	      This is an underlined text
 
 ```
 ![Screenshot (31)](https://github.com/user-attachments/assets/ec5368b3-6a19-423f-a9f6-a95724d63631)
