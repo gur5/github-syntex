@@ -35,4 +35,6 @@ Superscript	<sup> </sup>	None	This is a <sup>superscript</sup> text	This is a su
 Underline	<ins> </ins>	None	This is an <ins>underlined</ins> text	This is an underlined text
 
 ```
+![Screenshot (31)](https://github.com/user-attachments/assets/ec5368b3-6a19-423f-a9f6-a95724d63631)
+
 
