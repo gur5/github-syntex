@@ -46,11 +46,18 @@ Underline	              <ins> </ins>                  	None                     
 ---
 
 ### Quoting text
+
+<details>
+<summary>View</summary>
+  
 ```
 Text that is not a quote
 
 > Text that is a quote
 ```
+
+</details>
+
 ---
 
 ### Quoting code
