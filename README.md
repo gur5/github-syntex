@@ -1,13 +1,23 @@
 # github-syntex
 
 ### Headings
+
+<details>
+<summary>View</summary>
+  
 ```
 # A first-level heading
 ## A second-level heading
 ### A third-level heading
 ```
+</details>
+
 ---
 ### Styling text
+
+<details>
+<summary>View</summary>
+
 **You can indicate emphasis with bold, italic, strikethrough, subscript, or superscript text in comment fields and .md files.**
 ```
 Style	                          Syntax	              Keyboard shortcut	                                        Example	                          Output
@@ -30,6 +40,8 @@ Underline	              <ins> </ins>                  	None                     
 
 ```
 ![Screenshot (31)](https://github.com/user-attachments/assets/ec5368b3-6a19-423f-a9f6-a95724d63631)
+
+</details>
 
 ---
 
