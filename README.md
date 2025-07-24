@@ -79,9 +79,16 @@ git commit
 
 ---
 ### Links
+
+<details>
+<summary>View</summary>
+  
 ```
 This site was built using [GitHub Pages](https://pages.github.com/).
 ```
+
+</details>
+
 ---
 ### Section links
 
