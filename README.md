@@ -92,3 +92,8 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 ---
 ### Section links
 
+<details>
+<summary>View</summary>
+
+  
+</details>
